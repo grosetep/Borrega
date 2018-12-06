@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011000464015",
+    "firebase_url": "https://todoborrega.firebaseio.com",
+    "project_id": "todoborrega",
+    "storage_bucket": "todoborrega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011000464015:android:c29ce2c79cf84dba",
+        "android_client_info": {
+          "package_name": "com.comerciomovil.ecommerce.borrega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011000464015-oirisi3t6g96kja9tce1mplf64l2a0q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comerciomovil.ecommerce.borrega",
+            "certificate_hash": "3eb7aa03a726b2be1eb494ca39c10fca811c0b4d"
+          }
+        },
+        {
+          "client_id": "1011000464015-1cqieha92dh1387a75kj6k4uamqqjpib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlV8DnhoOUE9mCn_lVK4uZjITW5M6_wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011000464015-1cqieha92dh1387a75kj6k4uamqqjpib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
